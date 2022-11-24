@@ -4,4 +4,7 @@ All code was hand written following the guide which inluded debugging and unders
 
 https://www.youtube.com/watch?v=Q-__8Xw9KTM
 
+To run this program you must be using Python 3.11 and install pygame cmd line -pip3 install pygame --pre 
+(Pygame does not work currently with 3.11 you must use --pre)
+
 Press Space to shoot!
