@@ -1,0 +1,7 @@
+Wrote this using Tech with Tims video guide on how to make a Space Invader game.
+
+All code was hand written following the guide which inluded debugging and understanding the theory behind the game.
+
+https://www.youtube.com/watch?v=Q-__8Xw9KTM
+
+Press Space to shoot!
